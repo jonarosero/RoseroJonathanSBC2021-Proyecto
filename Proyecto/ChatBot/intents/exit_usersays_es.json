@@ -1,0 +1,97 @@
+[
+  {
+    "id": "8cf41c3b-1c88-4831-81ea-137d39434ec3",
+    "data": [
+      {
+        "text": "chao",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2c87c7d9-57f3-47de-9ad7-0235354bee36",
+    "data": [
+      {
+        "text": "terminar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f3c23978-dc64-4bfd-b19b-cc188cc205a4",
+    "data": [
+      {
+        "text": "Deseo salir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "07f5c750-1b76-4ae9-9f4f-fdeac554e0eb",
+    "data": [
+      {
+        "text": "Hasta luego",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6280f2c2-c09c-474e-b47e-e7b344aba51d",
+    "data": [
+      {
+        "text": "Adios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e6ae0040-f5e1-4689-b171-511d69947876",
+    "data": [
+      {
+        "text": "Cerrar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2d71773f-6504-482e-82a8-29e774c36028",
+    "data": [
+      {
+        "text": "Salir",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

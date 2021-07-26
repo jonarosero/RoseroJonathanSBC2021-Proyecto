@@ -1,0 +1,32 @@
+[
+  {
+    "value": "BBQ",
+    "synonyms": [
+      "pizza bbq",
+      "bbq pizza",
+      "pizza sabor bbq",
+      "pizza barbacoa"
+    ]
+  },
+  {
+    "value": "Carbonara",
+    "synonyms": [
+      "pizza carbonara",
+      "carbonara pizza"
+    ]
+  },
+  {
+    "value": "Taco",
+    "synonyms": [
+      "Taco pizza",
+      "pizza taco",
+      "pizza mexicana"
+    ]
+  },
+  {
+    "value": "mar",
+    "synonyms": [
+      "Frutos del mar"
+    ]
+  }
+]

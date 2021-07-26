@@ -1,0 +1,128 @@
+{
+  "id": "676c7dc9-a6ba-4cd6-990a-ed0da03eb789",
+  "name": "ingredientesBBQ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0c251fd0-fc4a-412f-a177-1bc9d1db6898",
+          "name": "bbq",
+          "required": false,
+          "dataType": "@bbq",
+          "value": "$bbq",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "La pizza BBQ cuenta con los siguientes ingredientes:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://vod-hogarmania.atresmedia.com/hogarmania/images/images01/2014/01/21/5c0016fa16334d0001919168/1239x697.jpg",
+          "subtitle": "Sin levadura",
+          "title": "Masa de harina de trigo",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.cookingclassy.com/wp-content/uploads/2020/05/bbq-sauce-01.jpg",
+          "subtitle": "Ranchera estilo picante",
+          "title": "Salsa BBQ",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2538/5286/articles/Presentacion1_034f1645-2277-4d3a-a69b-84593aa0ea79_1200x797.jpg?v\u003d1563646319",
+          "title": "Pollo Asado",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://d1kxxrc2vqy8oa.cloudfront.net/wp-content/uploads/2019/06/20112354/RFB-1106-4-tasajocecina.jpg",
+          "subtitle": "Cecinada",
+          "title": "Carne de res",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://gastronomiaycia.republica.com/wp-content/uploads/2008/03/mozarrella_bufala-680x510.jpg",
+          "subtitle": "Queso de cabra",
+          "title": "Queso mozzarella",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "Que desea hacer?",
+          "buttons": [
+            {
+              "postback": "ordenar pizza bbq",
+              "text": "Ordenar pizza"
+            },
+            {
+              "postback": "menu",
+              "text": "Volver al menú"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "11ffad39-cf3c-4422-8b0e-d6ce9d9ce666",
+    "data": [
+      {
+        "text": "menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9c6340ff-1601-4d97-9c84-56ac33d95bc8",
+    "data": [
+      {
+        "text": "opciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e1be4ec3-bf2d-4e5a-91f8-57e808dd1679",
+    "data": [
+      {
+        "text": "regresar al menú",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4e9722fd-ad92-462d-9f7c-a336c9685943",
+    "data": [
+      {
+        "text": "menú",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "49b4b818-60f9-487c-91cd-ea5e1ac97638",
+    "data": [
+      {
+        "text": "hola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "19659af8-e727-44fe-b118-47e2ac935d00",
+    "data": [
+      {
+        "text": "hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6ae51176-95ed-48d4-9e44-6a2c36be37b3",
+    "data": [
+      {
+        "text": "saludos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "332095ad-abee-4cd9-8be4-fe718465e47c",
+    "data": [
+      {
+        "text": "hey ho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "de514b29-db13-4521-b9b0-04f6599e13e9",
+    "data": [
+      {
+        "text": "chao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

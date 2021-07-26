@@ -1,0 +1,191 @@
+[
+  {
+    "id": "d9e5130f-f813-4174-b99b-73a472152720",
+    "data": [
+      {
+        "text": "enviame una taco ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@pizza",
+        "alias": "pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "210d0f5b-c5c6-4bd2-ac05-578c33788f09",
+    "data": [
+      {
+        "text": "deme",
+        "userDefined": false
+      },
+      {
+        "text": " una ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza mexicana",
+        "meta": "@type_pizza",
+        "alias": "type_pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "af73df08-a543-407a-a77b-89879b9945aa",
+    "data": [
+      {
+        "text": "quiero una ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza carbonara",
+        "meta": "@type_pizza",
+        "alias": "type_pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "cb36eb25-f12a-4cd3-9555-ad56f947f793",
+    "data": [
+      {
+        "text": "quiero una pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "frutos del mar",
+        "meta": "@type_pizza",
+        "alias": "type_pizza",
+        "userDefined": true
+      },
+      {
+        "text": " de tamaño ",
+        "userDefined": false
+      },
+      {
+        "text": "pequeña",
+        "meta": "@size",
+        "alias": "size",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a55a91d1-2b30-4ddc-b7f8-2c8f46932ccc",
+    "data": [
+      {
+        "text": "quiero ordenar una pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "bbq",
+        "meta": "@type_pizza",
+        "alias": "type_pizza",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "personal",
+        "meta": "@size",
+        "alias": "size",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "970ef0c4-27a9-47e8-8c3c-57ed2233f7d4",
+    "data": [
+      {
+        "text": "ordenar pizza tamaño ",
+        "userDefined": false
+      },
+      {
+        "text": "familiar",
+        "meta": "@size",
+        "alias": "size",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b8a61e3a-ac68-4af7-a751-ad686ce2f73d",
+    "data": [
+      {
+        "text": "ordenar pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "bbq",
+        "meta": "@type_pizza",
+        "alias": "type_pizza",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4224b3ea-d9c9-4caf-9b58-5ee7d6a5afee",
+    "data": [
+      {
+        "text": "ordenar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a5afca7d-0320-4c5b-b875-ac31d8eae83f",
+    "data": [
+      {
+        "text": "quiero ordenar una ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@pizza",
+        "alias": "pizza",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

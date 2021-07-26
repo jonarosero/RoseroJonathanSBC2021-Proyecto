@@ -1,0 +1,21 @@
+[
+  {
+    "value": "pequeña",
+    "synonyms": [
+      "small",
+      "personal"
+    ]
+  },
+  {
+    "value": "mediana",
+    "synonyms": [
+      "medium"
+    ]
+  },
+  {
+    "value": "grande",
+    "synonyms": [
+      "familiar"
+    ]
+  }
+]

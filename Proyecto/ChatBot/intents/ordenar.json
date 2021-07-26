@@ -1,0 +1,117 @@
+{
+  "id": "7255420c-6237-4ba7-a5a4-455ba4e056e1",
+  "name": "ordenar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dd4a069b-d5d9-4f18-b66d-fc5239b4d029",
+          "name": "pizza",
+          "required": false,
+          "dataType": "@pizza",
+          "value": "$pizza",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "02fbd547-45fd-4bca-b5f5-32d7f7ff5c3c",
+          "name": "type_pizza",
+          "required": true,
+          "dataType": "@type_pizza",
+          "value": "$type_pizza",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Ingrese el tipo de pizza"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fbfcd358-6336-4922-8a0a-b3432c232b14",
+          "name": "size",
+          "required": true,
+          "dataType": "@size",
+          "value": "$size",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Ingrese el tamaño de la pizza: personal, mediana o familiar"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Gracias ya le enviaremos su pizza $type_pizza de tamaño $size"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "Que quiere hacer?",
+          "buttons": [
+            {
+              "postback": "menu",
+              "text": "Volver al menú"
+            },
+            {
+              "postback": "salir",
+              "text": "Salir"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

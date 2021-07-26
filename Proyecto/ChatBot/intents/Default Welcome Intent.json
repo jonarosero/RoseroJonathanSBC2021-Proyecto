@@ -1,0 +1,94 @@
+{
+  "id": "b0445f3e-bfc9-4431-8f86-a577ae990999",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "text": "Bienvenido a Binnarium Pizzas",
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "callback_data": "pizzas",
+                      "text": "Pizzas"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "ingredientes",
+                      "text": "Ingredientes"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Ordenar Pizza",
+                      "callback_data": "ordenes"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Mis Pizzas",
+                      "callback_data": "mis pizzas"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "recomendaciones",
+                      "text": "Recomendaciones"
+                    }
+                  ]
+                ]
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Hola!",
+            "¡Hey!",
+            "¡Buenos días!"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "TELEGRAM_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

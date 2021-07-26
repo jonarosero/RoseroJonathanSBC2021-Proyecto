@@ -1,0 +1,83 @@
+[
+  {
+    "id": "5750896b-b1bc-44ba-a630-053f7a793469",
+    "data": [
+      {
+        "text": "pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "865a14b9-7edf-420b-9ebf-1ced16d2773c",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "una pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5c2782b2-6ffa-49bd-9c3b-ec1db69e326b",
+    "data": [
+      {
+        "text": "que ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzas",
+        "userDefined": false
+      },
+      {
+        "text": " tiene",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4660b650-d8f7-480d-b8c5-5527132958a0",
+    "data": [
+      {
+        "text": "Listar ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "43623a5e-28ae-4a55-980b-50c1389d5afb",
+    "data": [
+      {
+        "text": "pizzas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  }
+]

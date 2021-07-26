@@ -1,0 +1,144 @@
+{
+  "id": "f77f384f-cc3d-4acd-a0b6-556066e2d046",
+  "name": "pizzas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "En esta semana tenemos las siguientes creaciones de nuestros usuarios"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://images.aws.nestle.recipes/original/bde64b846a40efad276de36c1c990dc9_pizza-pollo-bbq.jpg",
+          "subtitle": "Para los amantes de la parrillada",
+          "title": "Pizza BBQ",
+          "buttons": [
+            {
+              "postback": "ingredientes bbq",
+              "text": "Revisa los ingredientes"
+            },
+            {
+              "postback": "ordenar bbq",
+              "text": "Ordenar"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://babycocina.com/wp-content/uploads/2020/02/pizza-carbonara-italiana.png",
+          "subtitle": "El autentico sabor italiano",
+          "title": "Pizza Carbonara",
+          "buttons": [
+            {
+              "postback": "ingredientes carbonara",
+              "text": "Revisa los ingredientes"
+            },
+            {
+              "postback": "ordenar carbonara",
+              "text": "Ordenar"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://dam.cocinafacil.com.mx/wp-content/uploads/2019/04/pizza-mexicana-frijoles-chorizo.png",
+          "subtitle": "Pero que ricos frijolitos",
+          "title": "Taco Pizza",
+          "buttons": [
+            {
+              "postback": "ingredientes taco",
+              "text": "Revisa los ingredientes"
+            },
+            {
+              "postback": "ordenar taco",
+              "text": "Ordenar"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.entrepucheros.com/wp-content/uploads/2010/10/IMG.jpg",
+          "subtitle": "En el mar la vida es más sabrosa",
+          "title": "Pizza Frutos del Mar",
+          "buttons": [
+            {
+              "postback": "ingredientes mar",
+              "text": "Revisa los ingredientes"
+            },
+            {
+              "postback": "ordenar mar",
+              "text": "Ordenar"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "Que quieres hacer?",
+          "buttons": [
+            {
+              "postback": "ordenar pizza",
+              "text": "Ordenar pizza"
+            },
+            {
+              "postback": "menu",
+              "text": "Volver al menú"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

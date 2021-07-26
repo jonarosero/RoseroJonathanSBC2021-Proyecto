@@ -1,0 +1,95 @@
+[
+  {
+    "id": "a264af7f-3d52-4f4a-b818-4bdccc52a129",
+    "data": [
+      {
+        "text": "que trae la pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "bbq",
+        "meta": "@bbq",
+        "alias": "bbq",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8eecc018-e023-4337-8428-72931e3de8fb",
+    "data": [
+      {
+        "text": "pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "barbacoa",
+        "meta": "@bbq",
+        "alias": "bbq",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8e510810-e688-4126-8578-9e57368796a4",
+    "data": [
+      {
+        "text": "quiero una ",
+        "userDefined": false
+      },
+      {
+        "text": "bbq",
+        "meta": "@bbq",
+        "alias": "bbq",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "768572c9-e37c-4ca2-a5a1-1f02cf75ddcd",
+    "data": [
+      {
+        "text": "que tiene la pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "bbq",
+        "meta": "@bbq",
+        "alias": "bbq",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "744c8b99-ee56-4dc0-a9e1-cc25401d376e",
+    "data": [
+      {
+        "text": "ingredientes bbq",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]
